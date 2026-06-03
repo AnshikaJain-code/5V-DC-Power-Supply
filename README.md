@@ -10,9 +10,8 @@ This power supply can be used for **charging small devices, powering microcontro
 
 ### 📷 Project Images
 
-| Hardware Setup | Circuit Diagram |
-|----------------|----------------|
-| ![Project](images/project.jpg) | ![Circuit](images/circuit.png) |
+(images/circuit.png)<img width="1920" height="1080" alt="5V DC supply circuit" src="https://github.com/user-attachments/assets/1e53fbca-b5a1-4645-9f3b-9598d9e047e2" />
+
 
 Most electronic devices require a **stable DC voltage**, while the electricity supplied in homes is **AC**.
 This project demonstrates the fundamental process of **AC to DC conversion and voltage regulation** using basic electronic components.
